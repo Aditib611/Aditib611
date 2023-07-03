@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aditib611/Aditib611](https://github.com/Aditib611/Aditib611)
+- 👨‍💻 All of my projects are available at [https://github.com/Aditib611](https://github.com/Aditib611)
 
 - 📫 How to reach me **aditibhavsar611@gmail.com**
 
