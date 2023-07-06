@@ -1,5 +1,5 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Aditi Bhavsar</h1><br><h3 align="center">A Passionate frontend Developer from India</h3><br><br><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"><br><br>- 🌱 I’m currently learning MERN Stack<br><br>- 👨‍💻 All of my projects are available at https://github.com/Aditib611/Aditib611<br><br>- 📫 How to reach me @aditibhavsar611@gmail.com <br><br>- 📄 Know about my experiences https://drive.google.com/file/d/1Mcfj2P3TUpA4eeBVjc6xkAsjuXryJPSC/view?usp=sharing
+
+<h1 align="center">Hi 👋, I'm Aditi Bhavsar</h1><br><h3 align="center">A Passionate frontend Developer from India</h3><br><br><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"><br><br>- 🌱 I’m currently learning MERN Stack<br><br>- 👨‍💻 All of my projects are available at https://github.com/Aditib611/Aditib611<br><br>- 📫 How to reach me aditibhavsar611@gmail.com<br><br>- 📄 Know about my experiences https://drive.google.com/file/d/1Mcfj2P3TUpA4eeBVjc6xkAsjuXryJPSC/view?usp=sharing
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aditib611&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aditib611&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditib611&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditib611&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aditib611&icon=0&color=0)](https://visitcount.itsvg.in)
