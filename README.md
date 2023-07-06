@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Aditi Bhavsar</h1><br><h3 align="center">A Passionate frontend Developer from India</h3><br><br><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"><br><br>- 🌱 I’m currently learning MERN Stack<br><br>- 👨‍💻 All of my projects are available at https://github.com/Aditib611/Aditib611<br><br>- 📫 How to reach me aditibhavsar611@gmail.com<br><br>- 📄 Know about my experiences https://drive.google.com/file/d/1Mcfj2P3TUpA4eeBVjc6xkAsjuXryJPSC/view?usp=sharing
+<h1 align="center">Hi 👋, I'm Aditi Bhavsar</h1><br><h3 align="center">A Passionate frontend Developer from India</h3><br><br><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"><br><br>- 🌱 I’m currently learning MERN Stack<br><br>- 👨‍💻 All of my projects are available at https://github.com/Aditib611/Aditib611<br><br>- 📫 How to reach me @aditibhavsar611@gmail.com <br><br>- 📄 Know about my experiences https://drive.google.com/file/d/1Mcfj2P3TUpA4eeBVjc6xkAsjuXryJPSC/view?usp=sharing
 
 
 ## 🌐 Socials:
